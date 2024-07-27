@@ -9,5 +9,5 @@
 
 :books: I’m currently learning backend development with C#/.Net.
  
-[![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=paola-santanna&theme=radical)](https://github.com/paola-santanna/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paola-santanna&theme=radical&layout=compact)](https://github.com/paola-santanna/github-readme-stats)
+[![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=Paola-Santanna&theme=radical)](https://github.com/paola-santanna/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paola-Santanna&theme=radical&layout=compact)](https://github.com/paola-santanna/github-readme-stats)
